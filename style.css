@@ -108,8 +108,16 @@ body {
         grid-template-rows: repeat(9, 1fr);
     }
 
-    .box {
-        grid-column: 1 !important;
-        grid-row: auto !important;
+    #keyPartners,
+    #keyActivities,
+    #keyResources,
+    #valueProposition,
+    #customerRelationships,
+    #channels,
+    #customerSegments,
+    #costStructure,
+    #revenueStreams {
+        grid-column: 1;
+        grid-row: auto;
     }
 }
