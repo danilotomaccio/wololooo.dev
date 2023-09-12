@@ -4483,7 +4483,7 @@ function qo(t, e) {
  */
 Ko();
 Sn();
-Dn([{"revision":null,"url":"assets/AdminView-c4eba928.js"},{"revision":null,"url":"assets/AdminView-db567cca.css"},{"revision":null,"url":"assets/index-416f28a4.css"},{"revision":null,"url":"assets/index-f0f690cb.js"},{"revision":"924d68a906f9a1d2afdf1576e9ac429e","url":"firebase-messaging-sw.js"},{"revision":"ed486799018a41a72208b01166447a03","url":"index.html"},{"revision":"1872c500de691dce40960bb85481de07","url":"registerSW.js"},{"revision":"c5611577c6fa70d967f05315912674a2","url":"favicon.ico"},{"revision":"8c4a85040bb81e8ce9a86262e2501516","url":"pwa-192x192.png"},{"revision":"9ee455bde94e1ddc798a5d2bf224248e","url":"pwa-512x512.png"},{"revision":"f20e24a85efffafa7fc7c4cfe6a231da","url":"manifest.webmanifest"}]);
+Dn([{"revision":null,"url":"assets/AdminView-61e07583.js"},{"revision":null,"url":"assets/AdminView-db567cca.css"},{"revision":null,"url":"assets/index-4032167f.js"},{"revision":null,"url":"assets/index-416f28a4.css"},{"revision":"924d68a906f9a1d2afdf1576e9ac429e","url":"firebase-messaging-sw.js"},{"revision":"cc4c66d06d1b3be50f233e4533cf5b52","url":"index.html"},{"revision":"1872c500de691dce40960bb85481de07","url":"registerSW.js"},{"revision":"c5611577c6fa70d967f05315912674a2","url":"favicon.ico"},{"revision":"8c4a85040bb81e8ce9a86262e2501516","url":"pwa-192x192.png"},{"revision":"9ee455bde94e1ddc798a5d2bf224248e","url":"pwa-512x512.png"},{"revision":"f20e24a85efffafa7fc7c4cfe6a231da","url":"manifest.webmanifest"}]);
 const zo = mt({
   apiKey: "AIzaSyCoNK6X1xjzHY2oquSwyz7oF2PRQPi1d4A",
   authDomain: "fonti-paintball.firebaseapp.com",
