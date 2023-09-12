@@ -1,4 +1,4 @@
-import { getMessaging } from "firebase/messaging/sw";
+/* import { getMessaging } from "firebase/messaging/sw";
 import { onBackgroundMessage } from "firebase/messaging/sw";
 
 const messaging = getMessaging();
@@ -13,4 +13,4 @@ onBackgroundMessage(messaging, (payload) => {
 
   self.registration.showNotification(notificationTitle,
     notificationOptions);
-});
+}); */
