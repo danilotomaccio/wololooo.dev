@@ -50,7 +50,7 @@
 <p>L'intera narrazione pittorica nella volta e nel presbiterio non si limita a una semplice decorazione artistica, ma propone un cammino di fede e di redenzione attraverso episodi salienti della vita della Vergine, affiancati dalle raffigurazioni di sante e martiri, come Santa Lucia, Santa Agata, Santa Orsola, Santa Caterina d'Alessandria, Santa Margherita di Antiochia, Santa Barbara, e Santa Caterina da Siena, che pregano la Madonna col Bambino, e un Santo vescovo. Questi affreschi, situati negli estradossi degli archi d'imposta della volta, sulla parete di fondo del presbiterio, e nell'intradosso degli archi delle pareti laterali del presbiterio, sono integrati da raffigurazioni di santi dottori della Chiesa, offrendo una visione complessiva della spiritualità e della devozione che permea l'intero spazio sacro.</p>
 
 <p>La soluzione pittorica e prospettica adottata da Ferro per la volta e il presbiterio della chiesa del Carmelo a Tricarico è dunque un esempio eminente di come l'arte possa fungere da veicolo di fede e contemplazione, attraverso un dialogo visivo che coinvolge lo spettatore in un percorso di riflessione spirituale e religiosa.</p>
-        `,mainPhoto:"/img/carmine-1.jpg"},{id:"le_pareti_della_navata",name:"Le pareti della navata",description:`
+        `,mainPhoto:"/img/carmine-10.jpg"},{id:"le_pareti_della_navata",name:"Le pareti della navata",description:`
 <p>Le pareti della navata della chiesa del Carmelo a Tricarico presentano un ricco ciclo affrescato che narra episodi della vita della Vergine Maria, suddivisi in due registri sovrapposti, ciascuno caratterizzato da una propria coerenza stilistica e tematica, attribuibili al lavoro congiunto di Pietro Antonio Ferro e dei suoi figli, Carlo e Giovanni Battista Ferro.</p>
 
 <div class="title-medium">Registro Superiore</div>
@@ -64,7 +64,7 @@
 <p>In particolare, l'Ascensione sul monte Tabor, con la Madonna orante e gli undici apostoli, è un'opera che riflette l'influenza dell'arte di Raffaello, così come le raffigurazioni di angeli che portano gli strumenti della Passione di Cristo, ispirati da un'incisione di Jan Sadeler, dimostrano l'apertura degli artisti verso fonti iconografiche diverse, integrando elementi tradizionali e innovativi.</p>
 
 <p>Questo complesso di affreschi non solo decora con maestria le pareti della chiesa, ma funge anche da strumento di catechesi visiva, attraverso cui i fedeli possono contemplare ed emulare le virtù teologali e cardinali rappresentate nelle diverse scene della vita di Maria e di Cristo.</p>
-        `,mainPhoto:"/img/carmine-10.jpg"},{id:"gli_affreschi_del_chiostro_del_convento",name:"Gli affreschi del chiostro del convento",description:`
+        `,mainPhoto:"/img/carmine-12.jpg"},{id:"gli_affreschi_del_chiostro_del_convento",name:"Gli affreschi del chiostro del convento",description:`
 <p>Il chiostro del convento carmelitano di Tricarico, accessibile attraverso un portale seicentesco adornato con lo stemma dell'ordine, conserva un prezioso ciclo di affreschi realizzato nel 1642 dai fratelli Giovanni Battista e Carlo Ferro. Questo ciclo rappresenta una significativa testimonianza della vitalità artistica del convento, che già agli inizi del XVII secolo si era affermato come un centro di fervente attività religiosa e culturale.</p>
 
 <p>I fratelli Ferro hanno decorato il chiostro con una serie di affreschi che coprono diverse superfici, dalla crociera alle lunette, creando un continuum narrativo che abbraccia temi sacri e quotidiani. Tra gli elementi distintivi di questa decorazione, troviamo:</p>
